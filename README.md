@@ -39,10 +39,9 @@
 ---
 
 ## 🔥 GitHub Activity
-<p align="center">
-  <a href="https://github.com/Prabhavathy4">
-    <img src="https://avatars.githubusercontent.com/Prabhavathy4" width="150" height="150"/>
-  </a>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&pause=1000&background=FFFFFF00&width=435&lines=Hi%2C+I'm+Prabhavathy+P;Full+Stack+Development+Enthusiast;IoT+%26+AI+Project+Builder;UI%2FUX+Designer" alt="Typing SVG" />
+</h1>
 </p>
 
 
@@ -54,7 +53,7 @@
 ---
 
 ## 🏅 Coding Challenges
-![LeetCode Stats](https://leetcode.com/u/prabhavathy04/)
+![SkillRack Stats]([https://leetcode.com/u/prabhavathy04/](https://www.skillrack.com/faces/resume.xhtml?id=470271&key=24e11a901a8dfa328f694e6c0f8e41d00a46bf0d))
 
 ---
 
