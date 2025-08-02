@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=times+new+roman&pause=1000&background=FFFFFF00&width=435&lines=Hi%2C+I'am+Prabhavathy+P;Full+stack+Development+Enthusiast" alt="Typing SVG" /></a>" />
+  <img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=times+new+roman&pause=1000&background=FFFFFF00&width=435&lines=Hi%2C+I'am+Prabhavathy+P;Full+stack+Development+Enthusiast" alt="Typing SVG" /></a>" 
 </h1>
 
 ![Visitors](https://komarev.com/ghpvc/?username=prabhavathy-p&color=blueviolet)
@@ -48,7 +48,7 @@
 ---
 
 ## 🏅 Coding Challenges
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=prabhavathy-p)
+![LeetCode Stats]([https://leetcode-stats.vercel.app/api?username=prabhavathy-p](https://leetcode.com/profile/))
 
 ---
 
