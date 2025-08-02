@@ -1,6 +1,9 @@
 <h1 align="center">
-  <img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=times+new+roman&pause=1000&background=FFFFFF00&width=435&lines=Hi%2C+I'am+Prabhavathy+P;Full+stack+Development+Enthusiast" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&pause=1000&background=FFFFFF00&width=435&lines=Hi%2C+I'm+Prabhavathy+P;Full+Stack+Development+Enthusiast" alt="Typing SVG" />
+  </a>
 </h1>
+
 
 ![Visitors](https://komarev.com/ghpvc/?username=prabhavathy-p&color=blueviolet)
 
@@ -37,8 +40,11 @@
 
 ## 🔥 GitHub Activity
 <p align="center">
-  <img src="(https://github.com/Prabhavathy4)" />
+  <a href="https://github.com/Prabhavathy4">
+    <img src="https://avatars.githubusercontent.com/Prabhavathy4" width="150" height="150"/>
+  </a>
 </p>
+
 
 ---
 
@@ -48,7 +54,7 @@
 ---
 
 ## 🏅 Coding Challenges
-![LeetCode Stats]([https://leetcode-stats.vercel.app/api?username=prabhavathy-p](https://leetcode.com/profile/))
+![LeetCode Stats](https://leetcode.com/u/prabhavathy04/)
 
 ---
 
