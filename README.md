@@ -27,23 +27,20 @@
 
 ---
 
-## 📝 Latest Articles / Posts
+## 📝 LinkedIn 
 - [My LinkedIn Profile](https://www.linkedin.com/in/prabhavathy-p-053416319)  
 
 ---
 
-## 🌍 Open Source / Contributions
-- Working on **Safety App SOS Complaint Portal** (Open for collaboration soon)
-- Contributed to college project repos (Food Delivery & Inventory Management)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Prabhavathy4&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Prabhavathy4&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhavathy4&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Prabhavathy4&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🔥 GitHub Activity
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&pause=1000&background=FFFFFF00&width=435&lines=Hi%2C+I'm+Prabhavathy+P;Full+Stack+Development+Enthusiast;IoT+%26+AI+Project+Builder;UI%2FUX+Designer" alt="Typing SVG" />
-</h1>
-</p>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
@@ -53,9 +50,13 @@
 ---
 
 ## 🏅 Coding Challenges
-![SkillRack Stats]([https://leetcode.com/u/prabhavathy04/](https://www.skillrack.com/faces/resume.xhtml?id=470271&key=24e11a901a8dfa328f694e6c0f8e41d00a46bf0d))
+![LeetCode Stats](https://leetcard.jacoblin.cool/prabhavathy04)
+
+
 
 ---
+
+
 
 ## 📄 View My Resume
 [Resume PDF](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/file:///C:/Users/Admin/Desktop/prabhaIOT/prabhavathy%20IT%20resume.pdf)  
